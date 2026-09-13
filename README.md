@@ -107,7 +107,6 @@ The app launches a Gradio server at `http://0.0.0.0:1689` (see the `demo.launch(
 | `0045678901` | زهرا حسینی (Zahra Hosseini) | Retired |
 | `0056789012` | امیر کریمی (Amir Karimi) | Self-employed |
 
-\* Note: the seed data in `database.py` inserts this citizen with code `1270765108`, while the in-app "Guide" and "Search" tabs list the sample as `0012345678` — double-check against your actual seeded database if a lookup doesn't return a result.
 
 ---
 
@@ -246,7 +245,6 @@ python app.py
 | `0045678901` | زهرا حسینی | بازنشسته |
 | `0056789012` | امیر کریمی | آزاد |
 
-\* توجه: داده‌ی seed در فایل `database.py` این شهروند را با کد `1270765108` وارد می‌کند، در حالی که تب‌های «راهنما» و «جستجو» در برنامه این نمونه را با کد `0012345678` فهرست کرده‌اند؛ اگر جست‌وجویی نتیجه‌ای برنگرداند، با پایگاه داده‌ی واقعی خود مطابقت دهید.
 
 ---
 
